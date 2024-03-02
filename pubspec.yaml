@@ -40,7 +40,18 @@ dependencies:
   google_fonts: ^4.0.4
   cloud_firestore: ^4.15.6
   firebase_auth: ^4.17.6
-
+  route_manager: ^2.0.1+1
+  url_launcher: ^6.2.5
+  get: ^4.6.6
+  get_storage: ^2.1.1
+  logger: ^2.0.2+1
+  iconsax: ^0.0.8
+  readmore: ^2.2.0
+  flutter_rating_bar: any
+  smooth_page_indicator: any
+  carousel_slider: any
+  http: any
+  provider: ^6.1.2
 dev_dependencies:
   flutter_test:
     sdk: flutter
